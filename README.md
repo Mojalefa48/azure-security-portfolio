@@ -19,7 +19,6 @@ Systems Engineer specializing in Microsoft Security (SC-200 & SC-100
 ## Certifications
 - SC-200
 - SC-100
-- 
 
 ## Projects
 - Microsoft Sentinel SOC Lab (in progress)
