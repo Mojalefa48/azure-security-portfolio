@@ -1,40 +1,45 @@
 ## Environment Setup
 
-###Create Log Analytics Workspace
-screenshots/create-log-analytics-workspace.png
+### Create Log Analytics Workspace
+![Create Log Analytics Workspace](screenshots/create-log-analytics-workspace.png)
 
 ### Enable Microsoft Sentinel
-screenshots/enable-sentinel.png
+This step enables Microsoft Sentinel on the Log Analytics workspace to start collecting and analyzing security events.
+
+![Enable Sentinel](screenshots/enable-sentinel.png)
 
 ### Connect Sentinel to Workspace
-screenshots/connect-sentinel.png
+![Connect Sentinel](screenshots/connect-sentinel.png)
+
 
 ## Data Collection
 
 ### Add Entra ID Data Connector
-screenshots/adding-data-connectors-entra-id.png
+![Add Data Connector](screenshots/adding-data-connectors-entra-id.png)
 
 ### Enable Logs
-screenshots/enabling-log.png
+![Enable Logs](screenshots/enabling-log.png)
 
 ### Verify Sign-in Logs
-screenshots/sign
+![Sign-in Logs](screenshots/entra-id-signin-logs.png)
 
 
 ## Detection & Monitoring
 
 ### Run Sign-in Logs Query (KQL)
-screenshots/running-signin-logs-query.png
+![KQL Query](screenshots/running-signin-logs-query.png)
 
 ### Create Analytics Rule (Failed Logins)
-screenshots/analytics-rule-failed-logins.png
+![Analytics Rule](screenshots/analytics-rule-failed-logins.png)
 
 ### Scheduled Detection Rule
-screenshots/scheduled-detection-rule.png
+![Scheduled Rule](screenshots/scheduled-detection-rule.png)
 
 
 ## Results
 
-- Successfully ingested logs from Entra ID
-- Created detection rule for failed login attempts
-- Generated alerts from suspicious activity
+- Successfully connected Entra ID logs to Sentinel  
+- Created detection rules for failed login attempts  
+- Queried logs using KQL  
+- Simulated suspicious activity and detected it  
+``
