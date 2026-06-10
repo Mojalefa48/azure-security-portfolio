@@ -40,7 +40,7 @@ click link to view screenshot https://github.com/Mojalefa48/azure-security-portf
 ### Verify Sign-in Logs
 Validated that user sign-in logs are being ingested into the workspace.
 
-click link to view screenshothttps://github.com/Mojalefa48/azure-security-portfolio/blob/44884fac84f1abd6e4744839ed221b884e550f65/screenshots/Sign%20in%20logs%20.png
+click link to view screenshot https://github.com/Mojalefa48/azure-security-portfolio/blob/44884fac84f1abd6e4744839ed221b884e550f65/screenshots/Sign%20in%20logs%20.png
 
 ---
 
