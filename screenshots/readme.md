@@ -59,7 +59,7 @@ screenshots/analytics-rule-failed-logins.png
 ### Scheduled Detection Rule
 Set up scheduled detection to continuously monitor suspicious behavior.
 
-screenshots/scheduled-detection-rule.png
+click link to view screenshot 
 
 ---
 
