@@ -49,17 +49,17 @@ click link to view screenshot https://github.com/Mojalefa48/azure-security-portf
 ### Run Sign-in Logs Query (KQL)
 Executed KQL queries to analyze authentication activity.
 
-screenshots/running-signin-logs-query.png
+Click link to view screenshot https://github.com/Mojalefa48/azure-security-portfolio/blob/f527ae766db10ee9d501f32922cc248363f35bce/screenshots/running-signin-logs-query.png
 
 ### Create Analytics Rule (Failed Logins)
 Configured an alert rule to detect repeated failed login attempts.
 
-screenshots/analytics-rule-failed-logins.png
+Click link to view screenshot https://github.com/Mojalefa48/azure-security-portfolio/blob/df1672f0a83aa0d799a66f3f38074b860ad1bad9/screenshots/analytics-rule-failed-logins.png.png
 
 ### Scheduled Detection Rule
 Set up scheduled detection to continuously monitor suspicious behavior.
 
-click link to view screenshot 
+Click link to view screenshot https://github.com/Mojalefa48/azure-security-portfolio/blob/f527ae766db10ee9d501f32922cc248363f35bce/screenshots/Scheduled%20Detection%20Rule.png
 
 ---
 
