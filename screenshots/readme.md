@@ -11,8 +11,7 @@ Build a Microsoft Sentinel SIEM lab to collect logs, detect suspicious activity,
 ### Create Log Analytics Workspace
 This step creates a central workspace for collecting and analyzing logs.
 
-screenshots/create-log-analytics-workspace.png
-https://github.com/Mojalefa48/azure-security-portfolio/blob/826f34bd661dc933fa9ccdfead927c8ef9f4e3b8/screenshots/create-log-analytics-workspace.png
+click link to view screenhot https://github.com/Mojalefa48/azure-security-portfolio/blob/826f34bd661dc933fa9ccdfead927c8ef9f4e3b8/screenshots/create-log-analytics-workspace.png
 
 ### Enable Microsoft Sentinel
 This step enables Microsoft Sentinel on the Log Analytics workspace to start collecting and analyzing security events.
