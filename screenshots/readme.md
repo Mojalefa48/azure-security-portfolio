@@ -1,7 +1,7 @@
 ## Environment Setup
 
 ### Create Log Analytics Workspace
-![Create Log Analytics Workspace](screenshots/create-log-analytics-workspace.png)
+(screenshots/create-log-analytics-workspace.png)
 
 ### Enable Microsoft Sentinel
 This step enables Microsoft Sentinel on the Log Analytics workspace to start collecting and analyzing security events.
