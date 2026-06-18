@@ -56,7 +56,7 @@ Click link to view screenshot https://github.com/Mojalefa48/azure-security-portf
 Impossible Travel Detection
 Developed a geo-velocity detection rule using Microsoft Sentinel and KQL to identify potential account compromise based on abnormal login locations and travel speed.
 
-Click link to view screenshot  
+Click link to view screenshot https://github.com/Mojalefa48/azure-security-portfolio/blob/1f3a95841c36d8457f0bf57af149f91ca78bb7f7/screenshots/Impossible%20Travel%20Detection.png
 
 ### Create Analytics Rule (Failed Logins)
 Configured an alert rule to detect repeated failed login attempts.
