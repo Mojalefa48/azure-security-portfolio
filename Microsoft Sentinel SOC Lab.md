@@ -51,6 +51,13 @@ Executed KQL queries to analyze authentication activity.
 
 Click link to view screenshot https://github.com/Mojalefa48/azure-security-portfolio/blob/f527ae766db10ee9d501f32922cc248363f35bce/screenshots/running-signin-logs-query.png
 
+## Advanced Threat Detection
+
+Impossible Travel Detection
+Developed a geo-velocity detection rule using Microsoft Sentinel and KQL to identify potential account compromise based on abnormal login locations and travel speed.
+
+Click link to view screenshot  
+
 ### Create Analytics Rule (Failed Logins)
 Configured an alert rule to detect repeated failed login attempts.
 
