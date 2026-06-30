@@ -97,7 +97,8 @@ Troubleshooting steps performed:
 - Verified managed identity configuration
 - Confirmed successful playbook execution
 
-Click link to view screenshot
+Click link to view screenshot https://github.com/Mojalefa48/azure-security-portfolio/blob/6fdb5842a6e12ffd957520e4b61d15bb6fd39e73/screenshots/Logic%20App%20Playbook.png
+
 Lessons Learned:
 - Sentinel Automation Rules require additional playbook permissions
 - Azure Activity Logs are critical for troubleshooting automation failures
