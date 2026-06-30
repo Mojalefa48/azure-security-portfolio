@@ -68,6 +68,64 @@ Set up scheduled detection to continuously monitor suspicious behavior.
 
 Click link to view screenshot https://github.com/Mojalefa48/azure-security-portfolio/blob/f527ae766db10ee9d501f32922cc248363f35bce/screenshots/Scheduled%20Detection%20Rule.png
 
+
+## AI Integration
+
+A Logic App playbook (AI-SOC-SuspiciousIP) was created and integrated with Microsoft Sentinel.
+
+Workflow:
+Suspicious IP Detection
+- Incident Creation
+- Logic App Playbook
+-Automated Email Notification
+
+Validation:
+- Playbook successfully deployed
+- Microsoft Sentinel connector configured
+- Outlook connector configured
+- Playbook execution validated through successful run history
+
+Troubleshooting:
+While configuring Sentinel Automation Rules, an HTTP 400 error was encountered:
+
+"Missing required permissions for Microsoft Sentinel on the playbook resource"
+
+Troubleshooting steps performed:
+- Reviewed Azure Activity Logs
+- Validated Logic App permissions
+- Verified Microsoft Sentinel Contributor roles
+- Verified managed identity configuration
+- Confirmed successful playbook execution
+
+Click link to view screenshot
+Lessons Learned:
+- Sentinel Automation Rules require additional playbook permissions
+- Azure Activity Logs are critical for troubleshooting automation failures
+- Logic Apps can be validated independently of Sentinel automation rules
+
+# Threat Hunting Lab
+
+## Objective
+Perform proactive threat hunting using Microsoft Sentinel.
+
+## Data Source
+Microsoft Entra ID SigninLogs
+
+## Hunting Queries
+- Failed Login Hunt
+- Multiple Country Hunt
+- Suspicious IP Hunt
+- After-Hours Login Hunt
+- MFA Failure Hunt
+
+Click link to view screenshot
+
+
+## Lessons Learned
+- Threat hunting differs from detection engineering
+- KQL can identify suspicious behavior without alerts
+- Proactive analysis improves visibility
+
 ---
 
 ## Results
