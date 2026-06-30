@@ -119,8 +119,7 @@ Microsoft Entra ID SigninLogs
 - After-Hours Login Hunt
 - MFA Failure Hunt
 
-Click link to view screenshot
-
+Click link to view screenshot https://github.com/Mojalefa48/azure-security-portfolio/blob/f780db75a2cb0a67ecb106a07451b5416b6195c8/screenshots/Hunt%20for%20Multiple%20Countries.png
 
 ## Lessons Learned
 - Threat hunting differs from detection engineering
@@ -142,6 +141,13 @@ Click link to view screenshot
 
 - Microsoft Sentinel (SIEM)  
 - KQL (Kusto Query Language)  
-- Microsoft Entra ID  
-- Threat Detection & Monitoring  
-- Incident Investigation Basics 
+- Microsoft Entra ID
+- Suspicious IP Detection
+- Threat Detection & Monitoring
+- Threat Hunting
+- Logic Apps
+- AI-style SOC Automation
+- Incident Investigation Basics
+- Impossible Travel Detection
+
+
